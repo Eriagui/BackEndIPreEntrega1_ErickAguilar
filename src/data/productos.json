@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta Deportiva",
+        "description": "Camiseta ligera y transpirable para entrenamiento intenso. Perfecta para el gimnasio o deportes al aire libre.",
+        "code": "CAM-1234",
+        "price": 25.99,
+        "status": true,
+        "stock": 50,
+        "category": "deportes",
+        "thumbnails": "https://example.com/images/camiseta-deportiva.jpg"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta Deportiva",
+        "description": "Camiseta ligera y transpirable para entrenamiento intenso. Perfecta para el gimnasio o deportes al aire libre.",
+        "code": "CAM-1234",
+        "price": 25.99,
+        "status": true,
+        "stock": 50,
+        "category": "deportes",
+        "thumbnails": "https://example.com/images/camiseta-deportiva.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Zapatillas Running",
+        "description": "Zapatillas diseñadas para brindar comodidad y soporte en largas distancias. Ideal para runners de todos los niveles.",
+        "code": "ZAP-5678",
+        "price": 79.99,
+        "status": false,
+        "stock": 30,
+        "category": "deportes",
+        "thumbnails": "https://example.com/images/zapatillas-running.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Reloj Inteligente",
+        "description": "Reloj inteligente con funciones de monitoreo de salud, GPS y notificaciones inteligentes. Resistente al agua.",
+        "code": "REL-91011",
+        "price": 149.99,
+        "status": true,
+        "stock": 20,
+        "category": "weareables",
+        "thumbnails": "https://example.com/images/reloj-inteligente.jpg"
+    }
+]
